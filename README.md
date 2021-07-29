@@ -1,4 +1,4 @@
-# TCS-Ninja-Coding-Qstns-Solutions-only-Python-
+# TCS Ninja Coding Qstns Solutions only Python
 
 Here I have inlcuded a number of solutions of the coding questions that have came and are probable for TCS Ninja exam. 70% of these are my own solutions and I have collected some from the internet. 
 
