@@ -23,10 +23,3 @@ str1=input()
 str2=input()
 print(wordFreq(str1,str2))
 
-
-
-
-
-
-
-
